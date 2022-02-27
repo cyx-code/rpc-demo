@@ -6,6 +6,7 @@
     <modules>
         <module>netty-client</module>
         <module>netty-server</module>
+        <module>netty-chat-server</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
